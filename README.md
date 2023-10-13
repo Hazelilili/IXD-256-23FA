@@ -16,11 +16,15 @@ Code examples and templates for IXD-256: Advanced Interactive Prototyping.
   
 ### Class 02   
 
-[Blink LED Program](class02/led_blink.py) - turn LED connected to pin1 on and off  
+[Blink LED](class02/led_blink.py) - turn LED connected to pin G1 on and off  
   
 ### Class 03   
 
-[Fade LED Program](class03/led_fade.py) - using PWM to fade LED connected to pin1  
+[Fade LED](class03/led_fade.py) - using PWM to fade LED connected to pin G1  
   
+### Class 04   
 
+[RGB LED with 2 States](class04/rgb_input_2states.py) - using digital input and state logic to toggle RGB LED output behavior between 2 states  
+[RGB LED with 4 States](class04/rgb_input_4states.py) - change RGB LED output behavior between 4 states with digital input and time conditions  
+  
 
